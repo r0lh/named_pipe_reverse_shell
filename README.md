@@ -13,3 +13,5 @@
 `.\server.exe \\.\pipe\yourpipename`
 
 `.\client.exe \\.\pipe\yourpipename`
+
+![named_pipe](https://github.com/user-attachments/assets/9add9efb-1a02-4835-a170-9e41f986da7a)
