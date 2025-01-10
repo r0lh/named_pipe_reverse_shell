@@ -1,4 +1,4 @@
-module named_pipe
+module named_pipe_reverse_shell
 
 go 1.23.3
 
